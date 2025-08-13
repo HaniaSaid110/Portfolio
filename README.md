@@ -1,4 +1,4 @@
-This is a personal portfolio website for me! showcasing experience, projects, skills, and contact information.
+This is my personal portfolio website, showcasing experience, projects, skills, and contact information🙂.
 
 ## Live Demo
 
